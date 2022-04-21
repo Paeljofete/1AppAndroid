@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Patricia Sánchez Pérez</string>
+
+    <string name="edit_message">Escribe tu nombre</string>
+    <string name="welcome_message">¡Saludos!</string>
+    <string name="hello_activity">¡Hola!</string>
+    <string name="second_activity">este es el segundo activity.</string>
+
+    <string name="button_send">Enviar</string>
+
+    <string name="button_switch">Cambiar letra</string>
+</resources>

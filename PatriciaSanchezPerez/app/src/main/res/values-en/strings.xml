@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Patricia Sánchez Pérez</string>
+
+    <string name="edit_message">Write your name</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="hello_activity">Hi!</string>
+    <string name="second_activity">this is the second activity.</string>
+
+    <string name="button_send">Send</string>
+
+    <string name="button_switch">Change letter</string>
+</resources>
